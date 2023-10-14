@@ -8,6 +8,6 @@ Specification for java comments: https://www.oracle.com/java/technologies/javase
 
 
 # To clone
-if on Linux, issue git clone https://github.com/Bjonk23/JavaCommentsExamples
+if on Linux, issue ```git clone https://github.com/Bjonk23/JavaCommentsExamples``` in a terminal
 
 if on windows, click "<> Code" -> download zip, then unzip to see root dir
